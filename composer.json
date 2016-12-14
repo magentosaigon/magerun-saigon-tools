@@ -1,0 +1,13 @@
+{
+  "name":"mercuriel/magerun-customcommand",
+  "type":"magento-module",
+  "author":[
+    {
+      "name":"Hoang Mai",
+      "email":"maihoang626@gmail.com"
+    }
+  ],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}

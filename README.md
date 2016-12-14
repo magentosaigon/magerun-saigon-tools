@@ -1,0 +1,1 @@
+Run following command to create module: mercuriel:module:create

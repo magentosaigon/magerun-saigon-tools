@@ -1,0 +1,10 @@
+autoloaders:
+  # Namespace => path to your libs
+  MercurielCommand: %module%/src
+
+  # or in project based config i.e.:
+  # MyCommandNamespace: %root%/lib
+
+commands:
+  customCommands:
+    - MercurielCommand\MercurielCreateCommand
